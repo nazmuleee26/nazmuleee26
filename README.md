@@ -6,18 +6,6 @@
 
 ---
 
-## 🧠 Overview
-
-I am a technology leader and systems architect focused on building scalable digital infrastructure for healthcare in emerging markets.
-
-As Co-founder & CTO of MedEasy, I lead the design and execution of a full-stack health platform spanning medicine delivery, telemedicine, diagnostics, and B2B pharmaceutical supply chains. My work sits at the intersection of distributed systems, operational optimization, and applied machine learning — solving real-world constraints such as fragmented supply chains, demand volatility, and access inequality.
-
-I specialize in translating complex, high-scale problems into pragmatic, production-ready systems — from microservices architecture and search infrastructure to inventory optimization algorithms like MedEasy’s Dynamic Thresholding Algorithm (DTA).
-
-My long-term focus is to build resilient, data-driven healthcare infrastructure that can scale across geographies while remaining deeply adapted to local realities.
-
----
-
 ## 🔭 Currently
 
 - ⚡ Scaling MedEasy's microservices ecosystem to support 10× growth  
@@ -29,7 +17,7 @@ My long-term focus is to build resilient, data-driven healthcare infrastructure 
 
 ## 🧠 About Me
 
-- 💼 10+ years in software engineering — telecom, AI/ML, and HealthTech  
+- 💼 10+ years in software engineering — building scalable systems across diverse technology domains
 - 🏥 Co-building one of Bangladesh’s most scalable digital healthcare platforms  
 - ⚙️ Leading architecture, engineering, and product across MedEasy & MedBazar  
 - 🎯 Focused on clean, scalable solutions to complex system design problems  
@@ -50,7 +38,7 @@ End-to-end healthcare infrastructure for chronic patients:
 Wholesale platform for licensed pharmacies:
 - 🏷️ 2,000+ DGDA-compliant products  
 - ✅ Verified suppliers  
-- 💰 Competitive bulk procurement  
+- 💰 Competitive bulk pricing & procurement efficiency
 
 ---
 
@@ -84,11 +72,17 @@ Wholesale platform for licensed pharmacies:
 
 ---
 
-## 📊 GitHub Stats
+## 📌 Notable Work
+ 
+| Project | Description |
+|---|---|
+| 🏥 **MedEasy** | B2C digital health platform — medicine delivery, telemedicine, lab tests |
+| 📦 **MedBazar** | B2B pharmacy procurement platform for licensed pharmacies |
+| ⚙️ **DTA Engine** | Proprietary Dynamic Thresholding Algorithm for pharmacy inventory optimization |
+ 
+---
 
-![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmuleee26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmuleee26&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+## 📊 GitHub Activity
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nazmuleee26&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
