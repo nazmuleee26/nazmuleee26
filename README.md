@@ -78,11 +78,11 @@ Built for licensed pharmacies across Bangladesh:
 
 ## 📊 GitHub Stats
 
-![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmulhossain17&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+![Nazmul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nazmuleee26&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhossain17&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nazmuleee26&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nazmulhossain17&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=nazmuleee26&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
 
 ---
 
